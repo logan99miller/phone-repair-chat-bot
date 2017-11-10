@@ -1,0 +1,11 @@
+We advise you reset your phone, this can be done on Android by holding the volume up key and power key simultaneously.
+We advise you keep Wi-Fi enabled during sleep, this can be done on Android by doing Wi-Fi > Settings > Menu > Advanced and select stay connected to Wi-Fi during sleep.
+We advise you format your phone using a desktop/laptop PC as the SD card may be corrupt. Formatting your SD card on a phone does not always work.
+We advise you remove your battery and leave it in a dry room for 72 hours.
+We advise you install a free anti-virus, we recommend AVG Mobile (https://play.google.com/store/apps/details?id=com.antivirus&hl=en_GB)
+We advise you disable automatic network time updates.
+We advise you clear your cache, this can be done under storage in the settings.
+We advise you purchase a new charger cable.
+We advise you reset your phone, this can be done on Android by holding the volume up key and power key simultaneously.
+We advise you factory reset your phone.
+We are sorry we could not provide a solution, we have allocated you a case number and your problem will be sent to a technician.

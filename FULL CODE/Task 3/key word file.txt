@@ -1,0 +1,10 @@
+frozen
+wifi,wlan,internet
+sd,storage,file
+water,wet,liquid,fluid,moist
+virus,spyware,adware,advert,popup,malware
+time,clock,minute,second,hour
+slow,fps,speed
+charge,battery,usb,lightning
+blank,lcd
+off,restart,shutdown,shut down
